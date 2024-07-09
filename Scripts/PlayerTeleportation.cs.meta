@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 424db609372cc8147b659bce6e60fe70
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TeleportLeftActionReference: {instanceID: 0}
+  - TeleportCenterActionReference: {instanceID: 0}
+  - TeleportRightActionReference: {instanceID: 0}
+  - TeleportTopActionReference: {instanceID: 0}
+  - teleportLeft_Position: {instanceID: 0}
+  - teleportCenter_Position: {instanceID: 0}
+  - teleportRight_Position: {instanceID: 0}
+  - teleportTop_Position: {instanceID: 0}
+  - teleportationEffect: {fileID: 6624718762685649807, guid: 007e9a8175af740438a8f6eecd126145,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
